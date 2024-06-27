@@ -1,6 +1,7 @@
 # Get notified Instantly!
-Looking forward to take classes with your favorite prof. This tool notifies you to be ahead of the competetion and register fast before the seats get filled out.
-Do not missout on registering for your favourite course.
+Looking forward to take classes with your favorite prof. This tool notifies you to be ahead of the competetion and register fast before the seats get filled out.Do not missout on registering for your favourite course.
+
+###### Note: You have to be logged in to your Dal Online account for this to work properly
 
 ## Instructions for setting up
 
