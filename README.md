@@ -1,5 +1,5 @@
 # Get notified Instantly!
-Looking forward to take classes with your favorite prof. This tool helps you to be ahead of the competetion and register first.
+Looking forward to take classes with your favorite prof. This tool notifies you to be ahead of the competetion and register fast before the seats get filled out.
 Do not missout on registering for your favourite course.
 
 ## Instructions for setting up
