@@ -4,17 +4,15 @@ Do not missout on registering for your favourite course.
 
 ## Instructions for setting up
 
-`
-git clone https://github.com/i-AshishKumar/course-notifier.git
-`
+`git clone https://github.com/i-AshishKumar/course-notifier.git`
 
-`
-pip install -r requirements.txt
-`
+`cd course-notifier`
+
+`pip install -r requirements.txt`
 
 ![Course release notification](https://i.ibb.co/GR2Hz2s/course-release-notification.jpg)
 
-Make sure to edit the below code fields in `main.py`
+### Make sure to edit the below code fields in `main.py`
 
 ```
 email_sender = 'xxxxx@gmail.com'
